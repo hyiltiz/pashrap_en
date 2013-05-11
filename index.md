@@ -1,5 +1,5 @@
 ---
-title: Statistics, R, Graphics and Fun
+title: Your Pain is Self Chosen
 layout: page
 ---
 
@@ -16,4 +16,3 @@ layout: page
   </li>
 {% endfor %}
 </ul>
-
