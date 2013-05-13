@@ -6,7 +6,7 @@
 
 editor=${EDITOR:-vim}
 
-file="$(date --iso)-${1}.md"
+file="$(date --iso)-$(echo ${@} | sed 's/ /-/g').md"
 filename="_posts/${file}"
 
 if [ -f "${filename}" ]; then
