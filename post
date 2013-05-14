@@ -26,7 +26,7 @@ else
   # YAML Front Matter
   echo "---"             >> ${filename} 
   echo "layout: post"    >> ${filename}
-  echo "title: ${title}" >> ${filename}
+  echo "title: ${@}"     >> ${filename}
   echo "categories:"     >> ${filename} 
   echo " - Life"         >> ${filename} 
   echo " - Software"     >> ${filename} 
