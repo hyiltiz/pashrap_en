@@ -6,7 +6,8 @@
 
 editor=${EDITOR:-vim}
 
-file="$(date --iso)-$(echo ${@} | sed 's/ /-/g').md"
+title=$(echo ${@} | sed 's/ /-/g')
+file="$(date --iso)-${title}.md"
 filename="_posts/${file}"
 
 if [ -f "${filename}" ]; then
@@ -24,7 +25,7 @@ else
   # YAML Front Matter
   echo "---"             >> ${filename} 
   echo "layout: post"    >> ${filename}
-  echo "title: ${1}"     >> ${filename}
+  echo "title: ${title}" >> ${filename}
   echo "categories:"     >> ${filename} 
   echo " - Life"         >> ${filename} 
   echo " - Software"     >> ${filename} 
@@ -42,7 +43,7 @@ fi
 
 echo ""
 echo "Now run the following if the post is ready to be *post*ed:"
-echo "git commit -a -m \"${1}\""
+echo "git commit -a -m \"post: ${file}\""
 echo "git push"
 echo ""
 
