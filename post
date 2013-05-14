@@ -9,12 +9,13 @@ editor=${EDITOR:-vim}
 title=$(echo ${@} | sed 's/ /-/g')
 file="$(date --iso)-${title}.md"
 filename="_posts/${file}"
+dict="/usr/share/dict/words"
 
 if [ -f "${filename}" ]; then
   # we already have the file
   # just open it
   echo "post found, now editing..."
-  ${editor} ${filename}
+  ${editor} ${filename} ${dict}
 else
   # create a new file with YAML Front Matter
   # create post file
@@ -38,7 +39,8 @@ else
   echo "---"             >> ${filename} 
   echo ""                >> ${filename} 
 
-  ${editor} ${filename}
+
+  ${editor} ${filename} ${dict}
 fi
 
 echo ""

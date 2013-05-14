@@ -4,5 +4,5 @@ title: Publication
 comments: yes
 ---
 
-I have not come up with any publications in English yet.
-The page is under development.
+I am quite looking forward to fill this page up with stuff.
+For now let's wait.
