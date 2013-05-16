@@ -29,9 +29,7 @@ the *touch* you feel on your hand has altered your visual perception.
 Education Background
 --------------------
 
--   2010 ~ Present: Bachelor of Science, Department of Psychology,
-    Peking University
-
+-   2010 ~ Present: Bachelor of Science, Department of Psychology, Peking University
 
 Professional Experience
 -----------------------
