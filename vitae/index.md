@@ -1,7 +1,7 @@
---------------------------
+---
 layout: page
 title: Curriculumn Vitae
---------------------------
+---
 
 Hörmetjan Yiltiz
 ================
