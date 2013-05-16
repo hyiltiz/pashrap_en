@@ -17,9 +17,7 @@ And he knows how and when to express sympathy towards peopling around
 him, and when necessary, reach out a helping hand. I always appreciated
 him.
 
-![Here is his picture][]
-
-He applied the Sci-Tec University of China and I kind of influenced his
+He applied the Sci-Tech University of China and I kind of influenced his
 choice here, mostly because I was not able to go to the University
 myself. And I was quite glad that he made it.
 
@@ -37,4 +35,3 @@ it takes him *one hour* to walk over there! And half an hour by bike.
 I guess I will never be able to find a reason for not having a meal, and
 I will try to have three meal a day. Thankee buddy!
 
-[Here is his picture]: http://b268.photo.store.qq.com/psb?/V10SzvFO2z4CBp/OzRd0XgQ6oYcI*0oPkjoPkVelbQgByzNU1tTIaNqrdQ!/b/dMBdy59vIQAA&bo=gAIIAgAAAAAAAK4!
