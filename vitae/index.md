@@ -11,6 +11,7 @@ Contact Information
 
 Email: <hyiltiz@gmail.com> Homepage: <http://hyiltiz.github.io/>
 
+
 Research Interest
 -----------------
 
@@ -23,11 +24,13 @@ you can *only* see one of the two point light walkers on the screen
 walking in the *different direction*. With this paradigm, we can see if
 the *touch* you feel on your hand has altered your visual perception.
 
+
 Education Background
 --------------------
 
 -   2010 ~ Present: Bachelor of Science, Department of Psychology,
     Peking University
+
 
 Professional Experience
 -----------------------
@@ -45,26 +48,28 @@ we do.
 
 ### Free Software Projects
 
-[Ipv6-hosts-new][]
+#### [Ipv6-hosts-new][]
 
 > A project aimed at gaining free access (free meaning not restricted)
 > providing ipv6 addressees to some famous hostnames, which was blocked
 > for some reasons in some countries.
 
-[Point Light Walker][PLW]
+#### [Point Light Walker][PLW]
 
 > The official development repository for libraries for Point Light
 > Walker displays using Psychtoolbox for Psychophysics research.
 
-[CloudMusicbox][]
+#### [CloudMusicbox][]
 
 > A easy and straightforward self-hosting music-box service
+
 
 ### Other Work Experience
 
 Oct 2012 - present:
 
 -   Lab Assistant at Institute of Acoustics, Chinese Academy of Science
+
 
 Computer Skills
 ---------------
