@@ -38,4 +38,4 @@ it takes him *one hour* to walk over there! And half an hour by bike.
 I guess I will never be able to find a reason for not having a meal, and
 I will try to have three meal a day. Thankee buddy!
 
-[Isn't he cool!]: /media/images/sakal.jpeg
+[Isn't he cool!]: /media/image/sakal.jpeg
