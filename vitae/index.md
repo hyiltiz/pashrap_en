@@ -9,7 +9,8 @@ Hörmetjan Yiltiz
 Contact Information
 -------------------
 
-Email: <hyiltiz@gmail.com> Homepage: <http://hyiltiz.github.io/>
+- Email: <hyiltiz@gmail.com> 
+- Homepage: <http://hyiltiz.github.io/>
 
 
 Research Interest
