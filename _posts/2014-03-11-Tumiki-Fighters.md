@@ -13,7 +13,7 @@ tags:
 Introduction
 ============
 
-Among all those interesting games under GNU/Linux, [Tumiki Fighters][] is one of my favourite.
+Among all those interesting games under GNU/Linux, [Tumiki Fighters](http://www.asahi-net.or.jp/~cs8k-cyu/windows/tf_e.html) is one of my favourite.
 
 In this funny game, you can not only shoot and destroy your enemies, you can even catch their broken pieces for protection as well as for bonus points. They even shoot for you! Yes, the more you got those stuck pieces, the more it gets complicated to protect them. But don't worry! You can pull them in, so that you are small enough to dodge bullets! This time your bullet goes straighter than normal.
 
