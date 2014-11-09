@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tumiki Fighters Cheat: Invincible and Super-powerful
+title: Tumiki Fighters Cheat to be Invincible and Super-powerful
 categories:
  - Software
 tags:
