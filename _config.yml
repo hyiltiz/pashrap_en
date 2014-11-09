@@ -3,4 +3,3 @@ permalink: /:day-:month-:year/:title.html
 url: http://hyiltiz.github.io/en
 author: Hörmetjan Yiltiz
 pygments: true
-
