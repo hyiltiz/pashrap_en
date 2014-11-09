@@ -10,7 +10,7 @@ Contact Information
 -------------------
 
 - Email: <hyiltiz@gmail.com> 
-- Homepage: <http://hyiltiz.github.io/>
+- Homepage: <http://hyiltiz.me/>
 
 
 Research Interest
