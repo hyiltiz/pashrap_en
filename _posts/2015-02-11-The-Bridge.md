@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The_Bridge
+title: The Bridge
 categories:
  - Life
 tags:
