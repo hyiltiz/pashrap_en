@@ -21,20 +21,20 @@ He was young and handsome. She was young and beautiful.
 
 Everyday he woke up to find himself in a feeling that he is getting
 closer to his soul mate; she told herself every single night before
-going to bed that she will soon find the one to keep her company for the
-rest of her life.
+going to bed that the one to keep her company for the rest of her life
+will soon be found.
 
 At last came that day.
 
 He was walking past a lake as bright as the sun, when he saw her for the
-first time of his life. But she felt this was the second time she was
-with him.
+first time of his life. But she had a memory as clear as the lake that
+it was only yesterday that she was with him.
 
 And each loved the other.
 
 Next day, she found him at the top of a mountain. She was sure that he
-was the one she needed since the beginning of time; he was certain that
-she is his soul mate and only she was.
+was the one she needed since the beginning of dawn; he was certain that
+she was his very soul mate since there was light.
 
 And each agreed to meet the other next day under a tree by the river,
 where the birds danced to the melody of the waters.
@@ -43,15 +43,15 @@ That day, she went straight to the tree by the river, instead of going
 back home. He went back home to get the ring so that he could ask her to
 marry him the next day.
 
-She stayed under the tree that night, listening to the melodies of the
+She stayed under the tree that night, listening to the melody of the
 waters, and spent the next day watching the birds dance. But he was
 nowhere to be seen.
 
 Then she went back home wearily with a broken heart.
 
 He woke up and felt his heart was unquiet, leaping desparately for
-something. He ran towards the river, and waited for her for a day and a
-night. But she was nowhere to be seen.
+something. He ran towards the river, and waited for her for a day and
+a night. But she was nowhere to be seen.
 
 Then he went back home exhausted with a broken heart.
 
