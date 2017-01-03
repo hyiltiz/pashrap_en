@@ -1,5 +1,5 @@
 markdown: kramdown 
 permalink: /:day-:month-:year/:title.html
-url: http://hyiltiz.github.io/en
-author: Hörmetjan Yiltiz
+url: http://hyiltiz.github.io/pashrap_en
+author: pashrap
 rouge: true

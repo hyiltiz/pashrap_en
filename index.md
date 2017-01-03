@@ -1,5 +1,5 @@
 ---
-title: Your Pain is Self Chosen
+title: pashrap's personal page
 layout: page
 ---
 

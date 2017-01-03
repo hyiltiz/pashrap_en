@@ -3,8 +3,11 @@ layout: page
 title: Curriculumn Vitae
 ---
 
-Hörmetjan Yiltiz
+pashrap
 ================
+
+fill your own, leaving my old stuff here as a template.
+
 
 Contact Information
 -------------------
