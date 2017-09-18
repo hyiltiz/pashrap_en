@@ -3,7 +3,7 @@ layout: page
 title: Curriculumn Vitae
 ---
 
-pashrap
+Pahriya Ashrap
 ================
 
 fill your own, leaving my old stuff here as a template.
@@ -12,105 +12,92 @@ fill your own, leaving my old stuff here as a template.
 Contact Information
 -------------------
 
-- Email: <hyiltiz@gmail.com> 
-- Homepage: <http://hyiltiz.me/>
+- Email: <pahriya@umich.edu> 
+- Homepage: <http://pahriya.com/>
 
 
 Research Interest
 -----------------
 
-Seeing is believing? What if *touching* makes more sense? I am doing
-psycho-physics experiment using a computer screen, a stereoscope, a pair
-of of pedals and a pair of tappers that tap on each of your hand as the
-corresponding foot of the person's (point light walker or PLW, is the
-term used) on the screen touches the ground, while through a stereoscope
-you can *only* see one of the two point light walkers on the screen
-walking in the *different direction*. With this paradigm, we can see if
-the *touch* you feel on your hand has altered your visual perception.
+I am interested in chemicals and reproductive health
 
-
-Education Background
+EDUCATION BACKGROUND
 --------------------
 
--   2010 ~ Present: Bachelor of Science, Department of Psychology, Peking University
-
-Professional Experience
+-Expected 2021: Doctor of Philosophy (Ph.D.) in Environmental Health Sciences, University of Michigan School of Public Health – Ann Arbor, MI                                                                  
+-2015 –2017: Master of Science (M.S.) in Environmental Health, Harvard T.H. Chan School of Public Health – Boston, MA						  	
+-2011 –2015: Bachelor of Science,College of Urban and Environmental Sciences, Peking University(PKU) – Beijing, China               
+ 	       	                 
+                           
+RESEARCH EXPERIENCE
 -----------------------
 
-Currently I am in the Center for Brain and Cognitive Sciences,
-Department of Psychology, Peking University. I do plenty experiments
-when the program is ready, most of whose is written with the help of
-[Psychtoolbox][].
+Graduate Research Assistant – Harvard T.H. Chan School of Public Health, Boston                            May 2016 – May 2017
+PI: Prof. Elsie Sunderland
+♣	Conducted independent project titled “the Analysis of Nutritional Modifiers of Methylmercury Uptake”
+o	Compared dietary data and biomarker of all frequent fish consumers across multiple cohorts, including Nurse’s Health Study I
+o	Used Hg isotope signatures of biomarkers to evaluate potential dietary recall
+o	Conducted statistical analysis to elucidate potential food modifiers for reducing MeHg absorption
 
-I am also the secretary of the Balance Theory Research Center, Peking
-University. We specify philosophy as lifestyle, and take an approach
-similar to Traditional Chinese Yin-Yang theories, but not the same,
-where keeping balance in all the aspects of life is not as emphasized as
-we do.
+Graduate Research Assistant – Harvard T.H. Chan School of Public Health, Boston                              Sept 2016 – July 2016
+PI: Prof. Joel Schwartz
+♣	Secondary investigator of the analysis titled “Meta-Analysis of the association between exposure to air pollution from traffic sources and cognition”
+o	Both primary and secondary investigator independently finished article searching and data extraction.
+o	Obtained articles from searching on few databases including Pubmed (Medline Ovid), Embase, Environmental Index, Web of Science and hand selected literatures using inclusion and exclusion criteria
+o	Systematically reviewed articles and extracted coefficients and other variables of interest 
 
-### Free Software Projects
-
-#### [Ipv6-hosts-new][]
-
-> A project aimed at gaining free access (free meaning not restricted)
-> providing ipv6 addressees to some famous hostnames, which was blocked
-> for some reasons in some countries.
-
-#### [Point Light Walker][PLW]
-
-> The official development repository for libraries for Point Light
-> Walker displays using Psychtoolbox for Psychophysics research.
-
-#### [CloudMusicbox][]
-
-> A easy and straightforward self-hosting music-box service
+Undergraduate Research Assistant –Key Laboratory for Earth Surface Processes, Peking University           Jan 2009 – June 2015
+PI: Prof. Yi Wan
+♣	Established methods for in vitro metabolism of Triclosan(TCS) in various species including human
+♣	Developed simultaneous analytical method for TCS and its metabolites on GC-MS and UPLC-QTOf-MS.
+♣	Identified the biotransformation products of TCS responsible for the CAR activities and subsequent liver toxicities; the yeast two-hybrid assay was used to test the binding activity of Triclosan and its metabolites with CAR receptor.
+♣	Finished the manuscript of the paper titled “Pathway Discovery of a Widespread Metabolic Pathway within and among Phenolic Xenobiotics”
 
 
-### Other Work Experience
+Core member of the course project in Risk Assessment of Toxicants class –PKU, Beijing                     Sept 2013 – Jan 2014
+♣	Calculated the distribution of children’s blood lead level with IEUBK model
+♣	Using nationwide data of children’s blood lead levels, ascertained that the incidence of MMR increased 0.73% and reduced IQ in Chinese children resulting from blood lead concentration is 0.5239. Evaluated DALYs lost of lead exposure for children
+♣	Wrote a term paper named “Health Risk Assessment of Lead Levels for Children in China” 
 
-Oct 2012 - present:
 
--   Lab Assistant at Institute of Acoustics, Chinese Academy of Science
+Leader of the course project in Environmental Toxicology class –Peking University, Beijing                           June 2013                                        
+♣	Isolated RNA produced by CYP genes from loach liver and replicated them with degenerate primers which are our own design.
+♣	 Used Q-RT-PCR and DNA electrophoresis techniques to examine the expression levels of these CYP genes
 
 
-Computer Skills
+
+WORK EXPERIENCE
+-----------------------
+
+Instructor – Ijtahat Education, Urumqi, China                                                             May 2017 – July 2017                                                                                       
+♣	Taught Chinese high school mathematics on Ijtahat online education: http://ijtihat.com/
+Lecturer– Qarluq Education Department at Qarluq Media Tech Co.,ltd, , Urumqi, China                   July  2017 – August 2017
+♣	Gave lectures on the application of Computer Science and Statistics
+
+
+
+VOLUNTEER EXPERIENCES & EXTRACURRICULAR ACTIVITIES
 ---------------
 
-I quite appreciate innovative works or, at least, work that an ordinary
-computer is unable to do it by itself. To do so, I let most of my work
-done via programming, so that I do not have to do the same thing for a
-second time.
+Volunteer and Journalist                                                                                                         	           Sept 2008 – present Xinjiang Yarp Anti-Drug and AIDS Prevention Network, Beijing	
 
-Another reason for my passion in programming is that, what I love is
-*NOT* programming. The fun in programming is not in programming itself,
-but the idea that by writing a program, we are describing, and sometimes
-even revealing, how the world rounds. Yes, by some means, that is mostly
-what mathematicians, psysicists and philosophers are trying to do with
-different approaches.
+♣	Participated in anti-drug and AIDS prevention propagandas and investigations
+♣	Translated articles related to anti-drug and AIDS prevention knowledge from Chinese to Uyghur and uploaded them to Yarp website
+Member of Women in Leadership Organization in Harvard T.H. Chan School of Public Health   Sept 2015 – June 2016
+Member of Harvard Chinese Students and Scholars Association (HCSSA)                                       Sept 2015 – Mar 2016
+	President of Students Association				      	                                               Mar 2013- Sept 2014    
+	Western Region’s Culture Communication Association, Peking University, Beijing
+♣	Organized PKU Minority (Uyghur) Mother-tongue Learning Group, teach Uyghur in weekly corner
+♣	Organized lectures and film appreciations about western region’s culture 
+♣	Initiated and held the first and second “Peking University Minority Ethnic Culture Festival” 
+♣	Awarded top 10 Student Association at Peking University
 
-Here are some softwares I like and use most of the time: 
+SKILLS
+---------------
+Languages: Fluent in English, Uyghur (native) and Chinese (native). Basic knowledge of Turkish, Arabic 
+Lab: Solid-phase extraction, Column Chromatography, In vitro Metabolism, GC-MS, LC-MS, UPLC-QTOF-MS, DNA/RNA Extraction and Purification, PCR, RT-PCR, DNA Electrophoresis, Microbial Cultivation, Fish Dissection, DMA
+Computer: R, SAS, STATA, SPSS, Graphpad Prism, Primer Premier, MarkerLynx, Masslynx, Unix/Linux, Microsoft Office, BMDS, Origin, Analytica
+Interests: Table Tennis, Salsa, Zumba, Swimming, Yoga, Piano
 
- - Mathematical Packages: [GNU Octave][], [MATLAB][], [Psychtoolbox][],
-   [R][], [SciPy][];
- - Languages: [Python][], [MATLAB][], [SHELL][], [R][], [Markdown][];
- - Applications: [LyX][], [GIT][], [VIM][], [pandoc][], [Firefox][], [VLC][];
- - Operating Systems: GNU/Linux [Debian][];
 
-[Psychtoolbox]: http://psychtoolbox.org/
-[Ipv6-hosts-new]: http://ipv6-hosts-new.googlecode.com
-[CloudMusicbox]: http://github.com/hyiltiz/cloudmusicbox
-[PLW]: http://github.com/hyiltiz/PLW
-[GNU Octave]: http://www.gnu.org/software/octave
-[MATLAB]: http://www.mathworks.com/
-[R]: http://www.r-project.org/
-[SciPy]: http://www.scipy.org
-[Python]: http://www.python.org/
-[SHELL]: http://www.gnu.org/software/bash/
-[Markdown]: http://daringfireball.net/projects/markdown/
-[LyX]: http://www.lyx.org
-[GIT]: http://git-scm.com/
-[VIM]: http://www.vim.org/
-[pandoc]: http://johnmacfarlane.net/pandoc/
-[Firefox]: http://www.mozilla.org/en-US/firefox/
-[VLC]: http://www.videolan.org/vlc/
-[Debian]: http://www.debian.org/
+
