@@ -4,6 +4,6 @@ title: Publication
 comments: yes
 ---
 
-**Ashrap, P.**, Zheng, G., Wan, Y., Li, T., Hu, W., Li, W., Zhang, H., Zhang, Z. and Hu, J., 2017. Discovery of a widespread metabolic pathway within and among phenolic xenobiotics. Proceedings of the National Academy of Sciences, p.201700558. doi: [10.1073/pnas.1700558114](dx.doi.org/10.1073/pnas.1700558114)
+**Ashrap, P.**, Zheng, G., Wan, Y., Li, T., Hu, W., Li, W., Zhang, H., Zhang, Z. and Hu, J., 2017. Discovery of a widespread metabolic pathway within and among phenolic xenobiotics. Proceedings of the National Academy of Sciences, p.201700558. doi: [10.1073/pnas.1700558114](/2017PNAS)
 
 
