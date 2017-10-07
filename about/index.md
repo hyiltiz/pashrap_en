@@ -1,11 +1,4 @@
 ---
-layout: page
-title: Home
-comments: yes
----
-
-You can know more about me in the [homepage](/) and my [vitae](../vitae/). 
----
 title: Pashrap's Personal Page
 layout: page
 ---
