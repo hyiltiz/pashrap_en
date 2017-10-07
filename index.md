@@ -1,5 +1,5 @@
 ---
-title: pashrap's personal page
+title: Pashrap's Personal Page
 layout: page
 ---
 
