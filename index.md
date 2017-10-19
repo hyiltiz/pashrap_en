@@ -6,7 +6,7 @@ comments: yes
 
 <img align="left" src="/media/image/Meekerlab_web_pahriya.png" height="30%" width="30%">
 
-I am a doctoral student at University of Michigan, School of Public Health. I have just started this September. I work with Prof. John Meeker. Here is the like for his lab
+I am a doctoral student at University of Michigan, School of Public Health. I have just started this September. I work with Prof. John Meeker. Here is the link for our [lab](https://sites.google.com/a/umich.edu/meekerlab/home)
 
 
 
@@ -19,6 +19,6 @@ You can know more about me in the [About me](/About me) and my [Curriculum vitae
 pashrap.-->
 
 
-You can find me on [Researchgate](https://github.com/hyiltiz/), [Google+](https://plus.google.com/110960771438948518308) and [Facebook](https://www.facebook.com/hyiltiz). Subscribe to the RSS feed of [blog posts](../feed/).  google scholar, lab page, pubmed research, tutoring experience, others..
+You can find me on [Linkedin](https://www.linkedin.com/in/pahriya-ashrap-paheliya-aixilafu-084900108/),[Researchgate](https://www.researchgate.net/profile/Paheliya_Aixilafu),[Google Scholar](https://scholar.google.com/citations?user=O83SoRkAAAAJ&hl=en) and [Facebook](https://www.facebook.com/paheliya.aixilafu).
 
 
