@@ -31,10 +31,8 @@ Research Experience
 
 - University of Michigan, School of Public Health 
 <br/>Graduate Research Assistant, Meeker Lab, 2017 – present
-
 - Harvard University T.H. Chan School of Public Health
 <br/>Graduate Research Assistant, Sunderland Lab, 2016 – 2017
-
 - Peking University, College of Urban and Environmental Sciences
 <br/>Undergraduate Research Assistant, Key Laboratory for Earth Surface Processes, 2013-2015
 
