@@ -12,6 +12,6 @@ Contact Information
 - Homepage: <http://pashrap.com/>
 - Office: SPH 6611 Cube 2
  <br/>            1415 Washington Heights
- <br/>            Ann Arbor, MI 48109
+ <br/>             Ann Arbor, MI 48109
 
 
