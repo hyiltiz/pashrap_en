@@ -4,8 +4,7 @@ title: Contacts
 comments: yes
 ---
 
-Contact Information
--------------------
+
 
 
 - Email: <pahriya@umich.edu>
