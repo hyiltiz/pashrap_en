@@ -16,10 +16,10 @@ Email: <pahriya@umich.edu>
 Homepage: <http://pahriya.com/>
 
 Office: SPH 6611 Cube 2
-        
-        1415 Washington Heights
-        
-        Ann Arbor, MI 48109
+        
+   1415 Washington Heights
+        
+   Ann Arbor, MI 48109
 
 
 
@@ -29,21 +29,19 @@ Research Interest
 Environmental and Reproductive Epidemiology,Exposures to Chemicals in Consumer Care Products, Endocrine Disruptors Mixture
 
 
-EDUCATION BACKGROUND
+Education Background
 --------------------
 
+
 - **University of Michigan, School of Public Health** 
-
- Ph.D. in Environmental Health Sciences (expected 2021) 
+Ph.D. in Environmental Health Sciences (expected 2021) 
 - **Harvard University T.H. Chan School of Public Health** 
-
- M.S. in Environmental Health (2017) 
+M.S. in Environmental Health (2017) 
 - **Peking University, College of Urban and Environmental Sciences**
-
- B.S. in Environmental Science (2015)
+B.S. in Environmental Science (2015)
   	                 
                            
-RESEARCH EXPERIENCE
+Research Experience
 -----------------------
 
 - University of Michigan, School of Public Health 
