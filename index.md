@@ -18,6 +18,7 @@ Homepage: <http://pahriya.com/>
 Office: SPH 6611 Cube 2
         
         1415 Washington Heights
+        
         Ann Arbor, MI 48109
 
 
@@ -47,12 +48,15 @@ RESEARCH EXPERIENCE
 -----------------------
 
 - University of Michigan, School of Public Health 
+
 Graduate Research Assistant, Meeker Lab, 2017 – present
 
 - Harvard University T.H. Chan School of Public Health 
+
 Graduate Research Assistant, Sunderland Lab, 2016 – 2017
 
 - Peking University, College of Urban and Environmental Sciences
+
 Undergraduate Research Assistant, Key Laboratory for Earth Surface Processes, 2013-2015
 
 
