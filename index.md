@@ -4,7 +4,7 @@ title: Pahriya Ashrap
 comments: yes
 ---
 
-<img align="right" src="/media/image/Meekerlab_web_pahriya.png" height="30%" width="30%">
+<img align="left" src="/media/image/Meekerlab_web_pahriya.png" height="30%" width="30%">
 
 I am a doctoral student at University of Michigan, School of Public Health. I have just started this September. I work with Prof. John Meeker. Here is the like for his lab
 
