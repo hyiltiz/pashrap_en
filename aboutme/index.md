@@ -5,13 +5,13 @@ comments: no
 ---
 
 <!--we are changing here into About me-->
-Research Interest
+_Research Interest_
 -----------------
 
 Environmental and Reproductive Epidemiology,Exposures to Chemicals in Consumer Care Products, Endocrine Disruptors Mixture
 
 
-Education Background
+_Education Background_
 --------------------
 
 Expected 2021   University of Michigan, School of Public Health<br/>
@@ -23,8 +23,8 @@ Expected 2021   University of Michigan, School of Public Health<br/>
 2015                   Peking University, College of Urban and Environmental Sciences<br/>
                         B.S. in Environmental Science
   	                 
-                           
-Research Experience
+                           
+_Research Experience_
 -----------------------
 
 - University of Michigan, School of Public Health 
