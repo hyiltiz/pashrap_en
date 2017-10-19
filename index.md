@@ -5,8 +5,9 @@ comments: yes
 ---
 
 
-I am a 
+I am a doctoral student at University of Michigan, School of Public Health. I have just started this September. I work with Prof. John Meeker. Here is the like for his lab
 
+<img align="right" src="/media/image/Meekerlab_web_pahriya.png">
 
 
 
