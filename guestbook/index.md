@@ -5,6 +5,33 @@ comments: no
 ---
 
 <!--we are changing here into About me-->
-Welcome to my guestbook. You can leave a message to me here.
+Research Interest
+-----------------
+
+Environmental and Reproductive Epidemiology,Exposures to Chemicals in Consumer Care Products, Endocrine Disruptors Mixture
+
+
+Education Background
+--------------------
+
+- **University of Michigan, School of Public Health**
+<br/>Ph.D. in Environmental Health Sciences (expected 2021) 
+- **Harvard University T.H. Chan School of Public Health**
+<br/>M.S. in Environmental Health (2017) 
+- **Peking University, College of Urban and Environmental Sciences**
+<br/>B.S. in Environmental Science (2015)
+  	                 
+                           
+Research Experience
+-----------------------
+
+- University of Michigan, School of Public Health 
+<br/>Graduate Research Assistant, Meeker Lab, 2017 – present
+- Harvard University T.H. Chan School of Public Health
+<br/>Graduate Research Assistant, Sunderland Lab, 2016 – 2017
+- Peking University, College of Urban and Environmental Sciences
+<br/>Undergraduate Research Assistant, Key Laboratory for Earth Surface Processes, 2013-2015
+
+
 
 
