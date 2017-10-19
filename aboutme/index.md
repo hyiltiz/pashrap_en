@@ -15,7 +15,7 @@ Education Background
 --------------------
 
 Expected 2021   University of Michigan, School of Public Health<br/>
-                            Ph.D. in Environmental Health Sciences 
+                             Ph.D. in Environmental Health Sciences 
                 
 2017                    Harvard University T.H. Chan School of Public Health<br/>
                              M.S. in Environmental Health
