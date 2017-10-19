@@ -26,10 +26,10 @@ Expected 2021   University of Michigan, School of Public Health<br/>
 
 Research Experience
 -----------------------
-2017 – present   University of Michigan, School of Public Health<br/>
+2017 – present    University of Michigan, School of Public Health<br/>
                              Graduate Research Assistant, Meeker Lab 
                 
-2016 – 2017         Harvard University T.H. Chan School of Public Health<br/>
+2016 – 2017        Harvard University T.H. Chan School of Public Health<br/>
                              Graduate Research Assistant, Sunderland Lab
                           
 2013-2015           Peking University, College of Urban and Environmental Sciences<br/>
