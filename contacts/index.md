@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Contacts
+format_strings = false
 comments: yes
 ---
 
 Contact Information
 -------------------
+
 
 - Email: <pahriya@umich.edu>
 - Homepage: <http://pashrap.com/>
