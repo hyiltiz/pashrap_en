@@ -5,7 +5,7 @@ comments: no
 ---
 
 <!--we are changing here into About me-->
-_Research Interest_
+Research Interest
 -----------------
 
 Environmental and Reproductive Epidemiology,Exposures to Chemicals in Consumer Care Products, Endocrine Disruptors Mixture
@@ -15,13 +15,13 @@ _Education Background_
 --------------------
 
 Expected 2021   University of Michigan, School of Public Health<br/>
-                    Ph.D. in Environmental Health Sciences 
+                       Ph.D. in Environmental Health Sciences 
                 
-2017                Harvard University T.H. Chan School of Public Health<br/>
-                         M.S. in Environmental Health
-        
-2015                   Peking University, College of Urban and Environmental Sciences<br/>
-                        B.S. in Environmental Science
+2017                  Harvard University T.H. Chan School of Public Health<br/>
+                          M.S. in Environmental Health
+         
+2015                    Peking University, College of Urban and Environmental Sciences<br/>
+                         B.S. in Environmental Science
   	                 
                            
 _Research Experience_
