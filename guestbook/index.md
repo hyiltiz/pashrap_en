@@ -14,12 +14,14 @@ Environmental and Reproductive Epidemiology,Exposures to Chemicals in Consumer C
 Education Background
 --------------------
 
-- **University of Michigan, School of Public Health**
-<br/>Ph.D. in Environmental Health Sciences (expected 2021) 
-- **Harvard University T.H. Chan School of Public Health**
-<br/>M.S. in Environmental Health (2017) 
-- **Peking University, College of Urban and Environmental Sciences**
-<br/>B.S. in Environmental Science (2015)
+Expected 2021   University of Michigan, School of Public Health
+                <br/>Ph.D. in Environmental Health Sciences 
+                
+2017            Harvard University T.H. Chan School of Public Health
+                <br/>M.S. in Environmental Health
+        
+2015            Peking University, College of Urban and Environmental Sciences**
+                <br/>B.S. in Environmental Science
   	                 
                            
 Research Experience
