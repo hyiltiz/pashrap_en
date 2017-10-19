@@ -12,10 +12,13 @@ Contact Information
 -------------------
 
 Email: <pahriya@umich.edu> 
+
 Homepage: <http://pahriya.com/>
+
 Office: SPH 6611 Cube 2
-          1415 Washington Heights
-          Ann Arbor, MI 48109
+        
+        1415 Washington Heights
+        Ann Arbor, MI 48109
 
 
 
@@ -31,8 +34,10 @@ EDUCATION BACKGROUND
 - **University of Michigan, School of Public Health** 
  Ph.D. in Environmental Health Sciences (expected 2021) 
 
+
 - **Harvard University T.H. Chan School of Public Health** 
  M.S. in Environmental Health (2017) 
+ 
 
 - **Peking University, College of Urban and Environmental Sciences**
  B.S. in Environmental Science (2015)
