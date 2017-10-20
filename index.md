@@ -6,11 +6,11 @@ comments: no
 
 <img align="central" src="/media/image/homepage.png" height="100%" width="100%">
 
-I am a doctoral student at University of Michigan, School of Public Health. I have just started this September. I work with Prof. John Meeker. Here is the link for our [lab](https://sites.google.com/a/umich.edu/meekerlab/home)
+I am a doctoral student at University of Michigan, School of Public Health. I have just started this September. I work with Prof. John Meeker. Here is the link for our [lab](https://sites.google.com/a/umich.edu/meekerlab/home).
 
 
 
-You can know more about me in the [About me](/aboutme) and my [Curriculum vitae](/media/pdf/CV-09-19-2017.pdf)
+You can know more about me in the [About me](/aboutme) and my [Curriculum vitae](/media/pdf/CV-09-19-2017.pdf).
 
 
 
@@ -20,6 +20,5 @@ You can know more about me in the [About me](/aboutme) and my [Curriculum vitae]
 pashrap.-->
 
 
-  You can find me on [Linkedin](https://www.linkedin.com/in/pahriya-ashrap-paheliya-aixilafu-084900108/), [Researchgate](https://www.researchgate.net/profile/Paheliya_Aixilafu), [Google Scholar](https://scholar.google.com/citations?user=O83SoRkAAAAJ&hl=en) and [Facebook](https://www.facebook.com/paheliya.aixilafu).
 
 
