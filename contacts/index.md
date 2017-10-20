@@ -6,7 +6,7 @@ comments: yes
 
 
 
-<img align="left" src="/media/image/gmail.GPEG" height="3%" width="3%">
+<img align="left" src="/media/image/gmail.gpg" height="3%" width="3%">
 Email: <pahriya@umich.edu><br/>
 
 <img align="left" src="/media/image/website.png" height="3%" width="3%">
