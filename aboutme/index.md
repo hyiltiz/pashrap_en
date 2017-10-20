@@ -46,7 +46,7 @@ Peking University, College of Urban and Environmental Sciences，Key Laboratory 
 
 Work Experience
 -----------------------
-<img align="right" src="/media/image/qarluq.png" height="7%" width="7%">
+<img align="right" src="/media/image/qarluq.png" height="6%" width="6%">
 Lecturer<br/>
 Qarluq Media Tech, Urumqi, China<br/>
 2017
