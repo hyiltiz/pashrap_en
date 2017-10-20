@@ -15,12 +15,11 @@ Environmental and Reproductive Epidemiology,Exposures to Chemicals in Consumer C
 Education Background
 --------------------
 
-<img align="left" src="/media/image/sph.png" height="5%" width="5%">
+<img align="left" src="/media/image/sph.png" height="5.5%" width="5.5%">
 Expected 2021   University of Michigan, School of Public Health<br/>
                                 Ph.D. in Environmental Health Sciences 
 
 <img align="left" src="/media/image/hsph.png" height="5%" width="5%">
-                
 2017                      Harvard University T.H. Chan School of Public Health<br/>
                                    M.S. in Environmental Health
 
