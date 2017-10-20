@@ -15,6 +15,6 @@ comments: yes
  <br/>         Ann Arbor, MI 48109
  
  
- You can also find me on [Linkedin<img src="/media/image/linkedin.png" width="15" height="15">](https://www.linkedin.com/in/pahriya-ashrap-paheliya-aixilafu-084900108/), [ResearchGate<img src="/media/image/researchgate.png" width="15" height="15">](https://www.researchgate.net/profile/Paheliya_Aixilafu), [Google Scholar<img src="/media/image/googlescholar.png" width="20" height="20">](https://scholar.google.com/citations?user=O83SoRkAAAAJ&hl=en) and [Facebook<img src="/media/image/facebook.png" width="15" height="15">](https://www.facebook.com/paheliya.aixilafu).
+ You can also find me on [Linkedin](https://www.linkedin.com/in/pahriya-ashrap-paheliya-aixilafu-084900108/), [ResearchGate](https://www.researchgate.net/profile/Paheliya_Aixilafu), [Google Scholar](https://scholar.google.com/citations?user=O83SoRkAAAAJ&hl=en) and [Facebook](https://www.facebook.com/paheliya.aixilafu).
 
 
