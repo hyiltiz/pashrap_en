@@ -23,7 +23,7 @@ Education Background
                           Harvard University T.H. Chan School of Public Health<br/>
                                    M.S. in Environmental Health<br/>
                                    2015-2017
-<img align="left" src="/media/image/pku.png" height="6%" width="6%">
+<img align="left" src="/media/image/pku.png" height="6.3%" width="6.3%">
                            Peking University, College of Urban and Environmental Sciences<br/>
                                    B.S. in Environmental Science<br/>
                                    2011-2015
