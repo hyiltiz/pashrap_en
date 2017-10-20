@@ -15,7 +15,7 @@ Environmental and Reproductive Epidemiology,Exposures to Chemicals in Consumer C
 Education Background
 --------------------
 
-<img align="left" src="/media/image/sph.png" height="5.5%" width="5.5%">
+<img align="left" src="/media/image/sph.png" height="5.2%" width="5.2%">
 Expected 2021   University of Michigan, School of Public Health<br/>
                                 Ph.D. in Environmental Health Sciences 
 
