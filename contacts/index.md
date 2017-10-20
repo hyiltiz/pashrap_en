@@ -6,14 +6,11 @@ comments: yes
 
 
 
-<img align="left" src="/media/image/gmail.jpg" height="3%" width="3%">
-Email: <pahriya@umich.edu><br/>
+<img align="left" src="/media/image/gmail.jpg" height="3%" width="3%"> Email: <pahriya@umich.edu><br/>
 
-<img align="left" src="/media/image/website.png" height="3%" width="3%">
-Homepage: <http://pashrap.com/><br/>
+<img align="left" src="/media/image/website.png" height="3%" width="3%"> Homepage: <http://pashrap.com/><br/>
 
-<img align="left" src="/media/image/address.png" height="3%" width="3%">
-Office: SPH 6611 Cube 2
+<img align="left" src="/media/image/address.png" height="3%" width="3%"> Office: SPH 6611 Cube 2
  <br/>            1415 Washington Heights
  <br/>              Ann Arbor, MI 48109
  
