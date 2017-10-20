@@ -16,30 +16,45 @@ Education Background
 --------------------
 
 <img align="right" src="/media/image/sph.png" height="8%" width="8%">
-  University of Michigan, School of Public Health<br/>
-  Ph.D. in Environmental Health Sciences<br/>
-  2017-2021<br/>                                 
+University of Michigan, School of Public Health<br/>
+Ph.D. in Environmental Health Sciences<br/>
+2017-2021<br/>                                 
 <img align="right" src="/media/image/hsph.png" height="8%" width="8%">
-  Harvard University T.H. Chan School of Public Health<br/>
-  M.S. in Environmental Health<br/>
- 2015-2017<br/>                                   
+Harvard University T.H. Chan School of Public Health<br/>
+M.S. in Environmental Health<br/>
+2015-2017<br/>                                   
 <img align="right" src="/media/image/pku.png" height="8%" width="8%">
-  Peking University, College of Urban and Environmental Sciences<br/>
-  B.S. in Environmental Science<br/>
-  2011-2015<br/>
+Peking University, College of Urban and Environmental Sciences<br/>
+B.S. in Environmental Science<br/>
+2011-2015<br/>
 
 
 Research Experience
 -----------------------
-2017 – present     University of Michigan, School of Public Health<br/>
-                                   Graduate Research Assistant, Meeker Lab 
+Graduate Research Assistant<br/>
+University of Michigan School of Public Health, [Meeker Lab] (https://sites.google.com/a/umich.edu/meekerlab/home)<br/>
+2017 – present     
                 
-2016 – 2017        Harvard University T.H. Chan School of Public Health<br/>
-                                   Graduate Research Assistant, Sunderland Lab
-                          
-2013-2015           Peking University, College of Urban and Environmental Sciences<br/>
-                                    Undergraduate Research Assistant, Key Laboratory for Earth Surface Processes
+Graduate Research Assistant<br/>
+Harvard University T.H. Chan School of Public Health, [Sunderland Lab](http://bgc.seas.harvard.edu/index.html)<br/>
+2016 – 2017
+    
+Undergraduate Research Assistant<br/>
+Peking University, College of Urban and Environmental Sciences，Key Laboratory for Earth Surface Processes<br/>
+2013-2015 
   
+
+Work Experience
+-----------------------
+<img align="right" src="/media/image/qarluq.png" height="8%" width="8%">
+Lecturer
+Qarluq Media Tech, Urumqi, China
+2017
+
+<img align="right" src="/media/image/ijtihat.png" height="8%" width="8%">
+Instructor
+Ijtihat Education, Urumqi, China
+2017
 
 
 
