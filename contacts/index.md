@@ -6,13 +6,16 @@ comments: yes
 
 
 
-
+<img align="left" src="/media/image/email.png" height="5%" width="5%">
 Email: <pahriya@umich.edu><br/>
+<img align="left" src="/media/image/website.png" height="5%" width="5%">
 Homepage: <http://pashrap.com/><br/>
+<img align="left" src="/media/image/address.png" height="5%" width="5%">
 Office: SPH 6611 Cube 2
  <br/>            1415 Washington Heights
  <br/>              Ann Arbor, MI 48109
  
- You can also find me on [Linkedin](https://www.linkedin.com/in/pahriya-ashrap-paheliya-aixilafu-084900108/), [ResearchGate](https://www.researchgate.net/profile/Paheliya_Aixilafu), [Google Scholar](https://scholar.google.com/citations?user=O83SoRkAAAAJ&hl=en) and [Facebook](https://www.facebook.com/paheliya.aixilafu).
+ You can also find me on [Linkedin](https://www.linkedin.com/in/pahriya-ashrap-paheliya-aixilafu-084900108/)![linkedin Logo](/media/image/linkedin.png)
+, [ResearchGate](https://www.researchgate.net/profile/Paheliya_Aixilafu), [Google Scholar](https://scholar.google.com/citations?user=O83SoRkAAAAJ&hl=en) and [Facebook](https://www.facebook.com/paheliya.aixilafu).
 
 
