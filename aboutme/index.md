@@ -38,7 +38,7 @@ University of Michigan School of Public Health, [Meeker Lab](https://sites.googl
 Graduate Research Assistant<br/>
 Harvard University T.H. Chan School of Public Health, [Sunderland Lab](http://bgc.seas.harvard.edu/index.html)<br/>
 2016 – 2017<br/>
-    
+
 Undergraduate Research Assistant<br/>
 Peking University, College of Urban and Environmental Sciences，Key Laboratory for Earth Surface Processes<br/>
 2013-2015<br/> 
@@ -46,13 +46,13 @@ Peking University, College of Urban and Environmental Sciences，Key Laboratory 
 
 Work Experience
 -----------------------
-<img align="right" src="/media/image/qarluq.png" height="6%" width="6%">
+<img align="right" src="/media/image/qarluq.png" height="5%" width="5%">
 Lecturer<br/>
 Qarluq Media Tech, Urumqi, China<br/>
 2017<br/>
 
 
-<img align="right" src="/media/image/ijtihat.png" height="10%" width="10%">
+<img align="right" src="/media/image/ijtihat.png" height="9%" width="9%">
 Instructor<br/>
 Ijtihat Education, Urumqi, China<br/>
 2017<br/>
