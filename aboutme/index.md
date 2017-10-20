@@ -21,7 +21,7 @@ Expected 2021   University of Michigan, School of Public Health<br/>
 2017                      Harvard University T.H. Chan School of Public Health<br/>
                                    M.S. in Environmental Health
                           
-2015                      Peking University, College of Urban and Environmental Sciences<br/>
+2015                       Peking University, College of Urban and Environmental Sciences<br/>
                                    B.S. in Environmental Science
 
 
