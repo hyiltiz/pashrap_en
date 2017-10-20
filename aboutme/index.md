@@ -33,7 +33,7 @@ Research Experience
 -----------------------
 **Graduate Research Assistant**<br/>
 University of Michigan School of Public Health, [Meeker Lab](https://sites.google.com/a/umich.edu/meekerlab/home)<br/>
-2017 – present<br/>     
+2017 – present<br/>
 
 **Graduate Research Assistant**<br/>
 Harvard University T.H. Chan School of Public Health, [Sunderland Lab](http://bgc.seas.harvard.edu/index.html)<br/>
@@ -52,7 +52,7 @@ Qarluq Media Tech, Urumqi, China<br/>
 2017<br/>
 
 
-[<img align="right" src="/media/image/ijtihat.png" height="11%" width="9%">](http://ijtihat.com)
+[<img align="right" src="/media/image/ijtihat.png" height="15%" width="9%">](http://ijtihat.com)
 **Instructor**<br/>
 Ijtihat Education, Urumqi, China<br/>
 2017<br/>
