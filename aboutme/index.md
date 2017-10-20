@@ -33,15 +33,15 @@ Research Experience
 -----------------------
 Graduate Research Assistant<br/>
 University of Michigan School of Public Health, [Meeker Lab](https://sites.google.com/a/umich.edu/meekerlab/home)<br/>
-2017 – present     
+2017 – present<br/>     
                 
 Graduate Research Assistant<br/>
 Harvard University T.H. Chan School of Public Health, [Sunderland Lab](http://bgc.seas.harvard.edu/index.html)<br/>
-2016 – 2017
+2016 – 2017<br/>
     
 Undergraduate Research Assistant<br/>
 Peking University, College of Urban and Environmental Sciences，Key Laboratory for Earth Surface Processes<br/>
-2013-2015 
+2013-2015<br/> 
   
 
 Work Experience
@@ -49,13 +49,13 @@ Work Experience
 <img align="right" src="/media/image/qarluq.png" height="6%" width="6%">
 Lecturer<br/>
 Qarluq Media Tech, Urumqi, China<br/>
-2017
+2017<br/>
 
 
 <img align="right" src="/media/image/ijtihat.png" height="10%" width="10%">
 Instructor<br/>
 Ijtihat Education, Urumqi, China<br/>
-2017
+2017<br/>
 
 
 
