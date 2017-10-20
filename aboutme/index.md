@@ -34,8 +34,8 @@ Research Experience
 **Graduate Research Assistant**<br/>
 University of Michigan School of Public Health, [Meeker Lab](https://sites.google.com/a/umich.edu/meekerlab/home)<br/>
 2017 – present<br/>     
-                
-**Graduate Research Assistant**<br/>                
+
+**Graduate Research Assistant**<br/>
 Harvard University T.H. Chan School of Public Health, [Sunderland Lab](http://bgc.seas.harvard.edu/index.html)<br/>
 2016 – 2017<br/>
 
