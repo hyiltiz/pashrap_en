@@ -22,7 +22,7 @@ Ph.D. in Environmental Health Sciences<br/>
 [<img align="right" src="/media/image/hsph.png" height="8%" width="9%">](https://www.hsph.harvard.edu)
 Harvard University T.H. Chan School of Public Health<br/>
 M.S. in Environmental Health<br/>
-2015-2017<br/>                                   
+2015-2017<br/>
 [<img align="right" src="/media/image/pku.png" height="9%" width="9%">](https://www.ues.pku.edu.cn)
 Peking University, College of Urban and Environmental Sciences<br/>
 B.S. in Environmental Science<br/>
@@ -46,13 +46,13 @@ Peking University, College of Urban and Environmental Sciences，Key Laboratory 
 
 Work Experience
 -----------------------
-[<img align="right" src="/media/image/qarluq.png" height="8%" width="9%">](http://www.qarluq.com/index.php?m=Home&c=Index&a=index)
+[<img align="right" src="/media/image/qarluq.png" height="6%" width="8%">](http://www.qarluq.com/index.php?m=Home&c=Index&a=index)
 Lecturer<br/>
 Qarluq Media Tech, Urumqi, China<br/>
 2017<br/>
 
 
-[<img align="right" src="/media/image/ijtihat.png" height="10%" width="9%">](http://ijtihat.com)
+[<img align="right" src="/media/image/ijtihat.png" height="11%" width="9%">](http://ijtihat.com)
 Instructor<br/>
 Ijtihat Education, Urumqi, China<br/>
 2017<br/>
