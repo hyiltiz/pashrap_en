@@ -6,11 +6,11 @@ comments: no
 
 <img align="central" src="/media/image/homepage.png" height="90%" width="90%">
 
-I am a doctoral student at University of Michigan, School of Public Health. I have just started this September. I work with Prof. John Meeker. Here is the link for our [lab](https://sites.google.com/a/umich.edu/meekerlab/home).
+I am a doctoral candidate at University of Michigan School of Public Health. I work with Prof. John Meeker. Here is the link for our [lab](https://sites.google.com/a/umich.edu/meekerlab/home).
 
 
 
-You can know more about me in the [About me](/aboutme) and my [Curriculum vitae](/media/pdf/CV-09-19-2017.pdf).
+You can find more about me in the [About me](/aboutme) and my [Curriculum vitae](/media/pdf/Pahriya_Ashrap_CV.pdf).
 
 
 
