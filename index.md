@@ -6,7 +6,7 @@ comments: no
 
 <img align="central" src="/media/image/homepage.png" height="90%" width="90%">
 
-I am a doctoral candidate at University of Michigan School of Public Health. I work with Prof. John Meeker. Here is the link for our [lab](https://sites.google.com/a/umich.edu/meekerlab/home).
+I am a doctoral candidate at University of Michigan School of Public Health. I work with Prof. John Meeker. Our group have been involved in projects that span a range of topics in environmental and occupational health, here is the link for our [lab](https://sites.google.com/a/umich.edu/meekerlab/home).
 
 
 
