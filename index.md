@@ -10,7 +10,7 @@ I am a doctoral candidate at University of Michigan School of Public Health. I w
 
 
 
-You can find more about me in the [About me](/aboutme) and my [Curriculum vitae](/media/pdf/Pahriya_Ashrap_CV.pdf).
+You can find more about me in the [About me](/aboutme) and my [Curriculum vitae](/media/pdf/CV_Pahriya_Ashrap.pdf).
 
 
 
