@@ -3,14 +3,25 @@ layout: page
 title: Publication
 comments: yes
 ---
+Tung, MT., **Ashrap, P.**, Watkins, DJ., Mukherjee, B., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2020. Maternal lipidomic profiling of pregnancy outcomes reveals unique lipid signatures for spontaneous preterm birth and large-for-gestational age neonates. (in preparation).
 
-**Ashrap, P.**, Watkins, DJ., Mukherjee, B., Boss, J., Richards, MJ., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2019. Profile and Predictors of Urinary and Blood Metal(loid) Concentrations among Pregnant Women in Northern Puerto Rico. Environmental Research, p.109178.[Pubmed](https://pubmed.ncbi.nlm.nih.gov/32007748/)
+**Ashrap, P.**, Aker, A., Watkins, DJ., Mukherjee, B., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2020. Psychosocial status modifies the effect of maternal blood metal and metalloid concentrations on birth outcomes. *Environment International*, (under review).
 
-**Ashrap, P.**, Sánchez, BN., Téllez-Rojo, MM., Basu, N., Tamayo-Ortiz, M., Peterson, KE., Meeker, JD., Watkins, DJ., 2019. In Utero and Peripubertal Metals Exposure in Relation to Reproductive Hormones and Sexual Maturation and Progression among Girls in Mexico City. Environmental Research, 177, p.108630.[Pubmed](https://pubmed.ncbi.nlm.nih.gov/31421446/)
+**Ashrap, P.**, Watkins, DJ.,Milne, GL., Ferguson, KK., Loch-Caruso, R., Fernandez, J., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2020. Maternal blood and urinary metal and metalloid concentrations in association with oxidative stress biomarkers. *International Journal of Hygiene and Environmental Health*, (under review).
 
-Rodríguez-Carmona, Y., **Ashrap, P.**, Calafat, AM., Ye, X., Rosario, Z., Bedrosian LD., Huerta-Montanez G., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., Watkins, DJ., 2019. Determinants and characterization of exposure to phthalates, DEHTP and DINCH among pregnant women in the PROTECT birth cohort in Puerto Rico. Journal of Exposure Science and Environmental Epidemiology, pp. 1-14.[Pubmed](https://pubmed.ncbi.nlm.nih.gov/31481681/)
+Rivera-Núñez, Z., **Ashrap, P.**, Barrett, ES., Watkins, DJ., Cathey, AL., Vélez-Vega, CM., Rosario, Z., Cordero, JF., Alshawabkeh, A., Meeker, JD., 2020. Association of biomarkers of exposure to metals and metalloids with maternal hormones in pregnant women from Puerto Rico. *Environment International*, (under review).
 
-**Ashrap, P.**, Watkins, D., Calafat, AM., Ye, X., Rosario, Z., Brown, P., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2018. Elevated concentrations of urinary triclocarban, phenol, and paraben among pregnant women in northern Puerto Rico: predictors and trends. Environmental International, 121, pp.990-1002. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/30316544/)
+**Ashrap, P.**, Meeker, JD., Sánchez, BN., Basu, N., Tamayo-Ortiz, M., Solano-Gonzáles, M., Mercado-Carsía, A., Téllez-Rojo, MM., Peterson, KE., Watkins, DJ., 2020. In utero and peripubertal metals exposure in relation to reproductive hormones and sexual maturation and progression among boys in Mexico City. *Environmental Health*, (accepted).
 
-**Ashrap, P.**, Zheng, G., Wan, Y., Li, T., Hu, W., Li, W., Zhang, H., Zhang, Z. and Hu, J., 2017. Discovery of a widespread metabolic pathway within and among phenolic xenobiotics. Proceedings of the National Academy of Sciences, 114(23), pp.6062-6067. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/28536195/)
+**Ashrap, P.**, Watkins, DJ., Mukherjee, B., Boss, J., Richards, MJ., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2020. Maternal blood metal(loid) concentrations in association with birth outcomes in Northern Puerto Rico. *Environment International*, 138, p.105606.[Pubmed](https://pubmed.ncbi.nlm.nih.gov/32179314/)
+
+**Ashrap, P.**, Watkins, DJ., Mukherjee, B., Boss, J., Richards, MJ., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2020. PProfile and predictors of urinary and blood metal(loid) concentrations among pregnant women in northern Puerto Rico. *Environmental Research*, p.109178.[Pubmed](https://pubmed.ncbi.nlm.nih.gov/32007748/)
+
+**Ashrap, P.**, Sánchez, BN., Téllez-Rojo, MM., Basu, N., Tamayo-Ortiz, M., Peterson, KE., Meeker, JD., Watkins, DJ., 2019. In utero and peripubertal metals exposure in relation to reproductive hormones and sexual maturation and progression among girls in Mexico City. *Environmental Research*, 177, p.108630.[Pubmed](https://pubmed.ncbi.nlm.nih.gov/31421446/)
+
+Rodríguez-Carmona, Y., **Ashrap, P.**, Calafat, AM., Ye, X., Rosario, Z., Bedrosian LD., Huerta-Montanez G., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., Watkins, DJ., 2019. Determinants and characterization of exposure to phthalates, DEHTP and DINCH among pregnant women in the PROTECT birth cohort in Puerto Rico. *Journal of Exposure Science and Environmental Epidemiology*, pp. 1-14.[Pubmed](https://pubmed.ncbi.nlm.nih.gov/31481681/)
+
+**Ashrap, P.**, Watkins, D., Calafat, AM., Ye, X., Rosario, Z., Brown, P., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2018. Elevated concentrations of urinary triclocarban, phenol, and paraben among pregnant women in northern Puerto Rico: predictors and trends. *Environmental International*, 121, pp.990-1002. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/30316544/)
+
+**Ashrap, P.**, Zheng, G., Wan, Y., Li, T., Hu, W., Li, W., Zhang, H., Zhang, Z. and Hu, J., 2017. Discovery of a widespread metabolic pathway within and among phenolic xenobiotics. *Proceedings of the National Academy of Sciences*, 114(23), pp.6062-6067. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/28536195/)
 
