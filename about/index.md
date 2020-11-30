@@ -23,23 +23,7 @@ comments: yes
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<ul class="listing">. 
+<!--<ul class="listing">. 
 {% for post in site.posts %} 
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %} 
   {% if year != y %} 
@@ -51,4 +35,4 @@ comments: yes
     <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> 
   </li> 
 {% endfor %} 
-</ul> 
+</ul> -->
