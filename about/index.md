@@ -5,7 +5,7 @@ comments: yes
 ---
 
 
-[**Pregnancy in Puerto Rico: Protecting the Health of Women and Children by Reducing Metal Exposures**](https://sph.umich.edu/pursuit/2020posts/protecting-the-health-of-women-and-children-by-reducing-metal-exposures.html), by Pahriya Ashrap on [The Pursuit](https://sph.umich.edu/pursuit/)
+[**Pregnancy in Puerto Rico: Protecting the Health of Women and Children by Reducing Metal Exposures**](https://sph.umich.edu/pursuit/2020posts/protecting-the-health-of-women-and-children-by-reducing-metal-exposures.html), by Pahriya Ashrap on [The Pursuit](https://sph.umich.edu/pursuit/), *Published: June 25, 2020
 
 [**Silk Road Native’s Dream Repeats with Every Intervention**](https://sph.umich.edu/stories/2019posts/pahriya-ashrap.html), a story about Pahriya on [WE ARE MICHIGAN PUBLIC HEALTH](https://sph.umich.edu/stories/), *Published: June 24, 2019*.
 
