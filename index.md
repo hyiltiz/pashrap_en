@@ -6,11 +6,14 @@ comments: no
 
 <img align="central" src="/media/image/homepage.png" height="90%" width="90%">
 
-I am a doctoral candidate at University of Michigan School of Public Health. I work with Prof. John Meeker. Our group have been involved in projects that span a range of topics in environmental and occupational health, here is the link for our [lab](https://sites.google.com/a/umich.edu/meekerlab/home).
+Pahriya is a Ph.D. candidate in the Department of Environmental Health Sciences at the University of Michigan, School of Public Health, where she is advised by [Dr. John D. Meeker](https://sph.umich.edu/faculty-profiles/meeker-john.html). [Meeker lab](https://sites.google.com/a/umich.edu/meekerlab/home)has been involved in projects that span a range of topics in environmental and occupational health, where Pahriya applies epidemiology, biostatistics, and environmental health sciences to support evidence-based public health practice. 
 
+Pahriya a broadly-trained professional with expertise in public health, environmental exposure assessment, environmental health, maternal and child health, epidemiology, quantitative research, and advanced data analytics. Her current research focuses on investigating the social determinants of reproductive health to improve maternal and child health through improved environmental and social conditions. 
 
+In 2020, she won a prestigious award, Barbour scholarship, from the University of Michigan Rackham graduate studies for her excellence in science and research. Prior to her work at University of Michigan, she earned my M.S. in “Environmental Health, Epidemiology, Risk and Decision Sciences” from the Harvard T.H. Chan School of Public Health.
 
-You can find more about me in the [About me](/aboutme) and my [Curriculum vitae](/media/pdf/CV_Pahriya_Ashrap.pdf).
+Her research has been published in *Proceedings of the National Academy of Sciences*, *Environment International, Environmental Research*, and *Journal of Exposure Science and Environmental Epidemiology*, among others. Pahriya also presented her research at international environmental epidemiology conferences in the US, Canada, and the Netherlands. 
+
 
 
 
