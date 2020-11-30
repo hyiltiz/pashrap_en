@@ -3,16 +3,21 @@ layout: page
 title: Pashrap's Articles
 comments: yes
 ---
-Tung, MT., **Ashrap, P.**, Watkins, DJ., Mukherjee, B., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2020. Maternal lipidomic profiling of pregnancy outcomes reveals unique lipid signatures for spontaneous preterm birth and large-for-gestational age neonates. (in preparation).
 
-**[Silk Road Native’s Dream Repeats with Every Intervention**](https://sph.umich.edu/stories/2019posts/pahriya-ashrap.html), a story about Pahriya on [WE ARE MICHIGAN PUBLIC HEALTH](https://sph.umich.edu/stories/).
 
-**[Trash to Treasure: The Incredible Benefits of Composting**](https://sph.umich.edu/pursuit/2019posts/benefits-of-composting.html). a conversation about composting on [The Pursuit](https://sph.umich.edu/pursuit/)
+[**Pregnancy in Puerto Rico: Protecting the Health of Women and Children by Reducing Metal Exposures**](https://sph.umich.edu/pursuit/2020posts/protecting-the-health-of-women-and-children-by-reducing-metal-exposures.html), by Pahriya Ashrap on [The Pursuit](https://sph.umich.edu/pursuit/)
 
-https://lsa.umich.edu/eli/news-events/all-news/studentspotlightapr20.html
-https://web.northeastern.edu/protect/protect-study-finds-predictors-of-metals-exposures-which-contribute-to-higher-toxicity-levels-amongst-puerto-rican-women-compared-to-us-population/
-https://web.northeastern.edu/protect/protect-study-finds-that-among-metals-maternal-blood-lead-concentrations-were-strongly-associated-with-increased-risk-of-preterm-birth/
-https://web.northeastern.edu/protect/protect-study-finds-decrease-in-phthalate-exposure-coincides-with-increase-in-phthalate-replacement-chemicals-in-protect-cohort/
+[**Silk Road Native’s Dream Repeats with Every Intervention**](https://sph.umich.edu/stories/2019posts/pahriya-ashrap.html), a story about Pahriya on [WE ARE MICHIGAN PUBLIC HEALTH](https://sph.umich.edu/stories/), *Published: June 24, 2019*.
+
+[**Trash to Treasure: The Incredible Benefits of Composting**](https://sph.umich.edu/pursuit/2019posts/benefits-of-composting.html). a conversation about composting by Pahriya Ashrap and Amber Cathey on [The Pursuit](https://sph.umich.edu/pursuit/), *Published: September 19, 2019*.
+
+[**Student Spotlight - Pahriya Ashrap**](https://lsa.umich.edu/eli/news-events/all-news/studentspotlightapr20.html), English Language Institute Student Spotlight series.*Published: April 10, 2020*.
+
+[**PROTECT Study finds predictors of metals exposures which contribute to higher toxicity levels amongst Puerto Rican Women compared to US Population**](https://web.northeastern.edu/protect/protect-study-finds-predictors-of-metals-exposures-which-contribute-to-higher-toxicity-levels-amongst-puerto-rican-women-compared-to-us-population/), *Published: November 19, 2020*.
+
+[**PROTECT Study finds that among metals, maternal blood lead concentrations were strongly associated with increased risk of preterm birth**](https://web.northeastern.edu/protect/protect-study-finds-that-among-metals-maternal-blood-lead-concentrations-were-strongly-associated-with-increased-risk-of-preterm-birth/)*Published: May 11, 2020*.
+
+[**PROTECT Study Finds Decrease in Phthalate Exposure Coincides with Increase in Phthalate Replacement Chemicals in PROTECT Cohort**](https://web.northeastern.edu/protect/protect-study-finds-decrease-in-phthalate-exposure-coincides-with-increase-in-phthalate-replacement-chemicals-in-protect-cohort/)*Published: May 6, 2020*.
 
 
 
