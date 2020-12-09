@@ -3,7 +3,7 @@ layout: page
 title: Pashrap's Articles
 comments: yes
 ---
-[_PROTECT Trainee Spotlight – Pahriya Ashrap_](https://web.northeastern.edu/protect/trainee-spotlight-pahriya-ashrap/), *published: December 9, 2020*.
+[<u>PROTECT Trainee Spotlight – Pahriya Ashrap<u>](https://web.northeastern.edu/protect/trainee-spotlight-pahriya-ashrap/), *published: December 9, 2020*.
 
 [_PROTECT Study finds predictors of metals exposures which contribute to higher toxicity levels amongst Puerto Rican Women compared to US Population_](https://web.northeastern.edu/protect/protect-study-finds-predictors-of-metals-exposures-which-contribute-to-higher-toxicity-levels-amongst-puerto-rican-women-compared-to-us-population/), *Published: November 19, 2020*.
 
