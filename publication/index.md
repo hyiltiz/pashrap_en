@@ -3,7 +3,7 @@ layout: page
 title: Publication
 comments: yes
 ---
-Tung, MT., **Ashrap, P.**, Watkins, DJ., Mukherjee, B., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2020. Maternal lipidomic profiling of pregnancy outcomes reveals unique lipid signatures for spontaneous preterm birth and large-for-gestational age neonates. (in preparation).
+Tung, MT., **Ashrap, P.**, Watkins, DJ., Mukherjee, B., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2020. Maternal lipidomic profiling of pregnancy outcomes reveals unique lipid signatures for spontaneous preterm birth and large-for-gestational age neonates. *Journal of Lipid Research*, (under review).
 
 **Ashrap, P.**, Aker, A., Watkins, DJ., Mukherjee, B., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2020. Psychosocial status modifies the effect of maternal blood metal and metalloid concentrations on birth outcomes. *Environment International*, (under review).
 
