@@ -9,7 +9,7 @@ comments: no
 Research Interest
 -----------------
 
-Environmental and Reproductive Epidemiology,Exposures to Chemicals in Consumer Care Products, Endocrine Disruptors Mixture
+Environmental and Reproductive Epidemiology, Endocrine Disruptors Mixture, Social Determinants of Maternal and Child Health 
 
 
 Education Background
