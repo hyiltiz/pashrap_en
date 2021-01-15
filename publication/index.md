@@ -3,7 +3,7 @@ layout: page
 title: Publication
 comments: yes
 ---
-**Ashrap, P.**, Watkins, DJ., Mukherjee, Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2020. Performance of urinary, blood, and integrated multi-media metal biomarkers in Relation to birth outcomes in a mixture Setting. (in preparation).
+**Ashrap, P.**, Watkins, DJ., Mukherjee, Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2021. Performance of urinary, blood, and integrated multi-media metal biomarkers in Relation to birth outcomes in a mixture Setting. (in preparation).
 
 Tung, MT., **Ashrap, P.**, Watkins, DJ., Mukherjee, B., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2021. Maternal lipidomic profiling of pregnancy outcomes reveals unique lipid signatures for spontaneous preterm birth and large-for-gestational age neonates. *Scientific Reports*, (under review).
 
