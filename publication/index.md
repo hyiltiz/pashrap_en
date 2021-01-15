@@ -3,6 +3,8 @@ layout: page
 title: Publication
 comments: yes
 ---
+**Ashrap, P.**, Watkins, DJ., Mukherjee, Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2020. Performance of urinary, blood, and integrated multi-media metal biomarkers in Relation to birth outcomes in a mixture Setting. (in preparation).
+
 Tung, MT., **Ashrap, P.**, Watkins, DJ., Mukherjee, B., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2021. Maternal lipidomic profiling of pregnancy outcomes reveals unique lipid signatures for spontaneous preterm birth and large-for-gestational age neonates. *Scientific Reports*, (under review).
 
 **Ashrap, P.**, Aker, A., Watkins, DJ., Mukherjee, B., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2021. Psychosocial status modifies the effect of maternal blood metal and metalloid concentrations on birth outcomes. *Environment International*, (under review).
@@ -11,7 +13,7 @@ Tung, MT., **Ashrap, P.**, Watkins, DJ., Mukherjee, B., Rosario, Z., Vélez-Vega
 
 Rivera-Núñez, Z., **Ashrap, P.**, Barrett, ES., Watkins, DJ., Cathey, AL., Vélez-Vega, CM., Rosario, Z., Cordero, JF., Alshawabkeh, A., Meeker, JD., 2020. [Association of biomarkers of exposure to metals and metalloids with maternal hormones in pregnant women from Puerto Rico](https://www.sciencedirect.com/science/article/pii/S0160412020322650). *Environment International*, 147, p.106310.
 
-**Ashrap, P.**, Meeker, JD., Sánchez, BN., Basu, N., Tamayo-Ortiz, M., Solano-Gonzáles, M., Mercado-Carsía, A., Téllez-Rojo, MM., Peterson, KE., Watkins, DJ., 2020. [In utero and peripubertal metals exposure in relation to reproductive hormones and sexual maturation and progression among boys in Mexico City](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-020-00672-0). *Environmental Health*,177, p.108630.
+**Ashrap, P.**, Meeker, JD., Sánchez, BN., Basu, N., Tamayo-Ortiz, M., Solano-Gonzáles, M., Mercado-Carsía, A., Téllez-Rojo, MM., Peterson, KE., Watkins, DJ., 2020. [In utero and peripubertal metals exposure in relation to reproductive hormones and sexual maturation and progression among boys in Mexico City](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-020-00672-0). *Environmental Health*, 177, p.108630.
 
 **Ashrap, P.**, Watkins, DJ., Mukherjee, B., Boss, J., Richards, MJ., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2020. [Maternal blood metal(loid) concentrations in association with birth outcomes in Northern Puerto Rico](https://doi.org/10.1016/j.envint.2020.105606). *Environment International*, 138, p.105606.
 
