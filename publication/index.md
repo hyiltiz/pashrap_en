@@ -7,7 +7,7 @@ comments: yes
 
 Tung, MT., **Ashrap, P.**, Watkins, DJ., Mukherjee, B., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2021. Maternal lipidomic profiling of pregnancy outcomes reveals unique lipid signatures for spontaneous preterm birth and large-for-gestational age neonates. *Scientific Reports*, (under review).
 
-**Ashrap, P.**, Aker, A., Watkins, DJ., Mukherjee, B., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2021. Psychosocial status modifies the effect of maternal blood metal and metalloid concentrations on birth outcomes. *Environment International*, (under review).
+**Ashrap, P.**, Aker, A., Watkins, DJ., Mukherjee, B., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2021. [Psychosocial status modifies the effect of maternal blood metal and metalloid concentrations on birth outcomes](https://www.sciencedirect.com/science/article/pii/S0160412021000428). *Environment International*, 149, p.106418.
 
 **Ashrap, P.**, Watkins, DJ.,Milne, GL., Ferguson, KK., Loch-Caruso, R., Fernandez, J., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2021. [Maternal blood and urinary metal and metalloid concentrations in association with oxidative stress biomarkers](https://www.mdpi.com/2076-3921/10/1/114). *Antioxidants*, 10(1), 114.
 
