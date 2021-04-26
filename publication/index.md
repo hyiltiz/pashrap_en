@@ -5,7 +5,7 @@ comments: yes
 ---
 **Ashrap, P.**, Watkins, DJ., Mukherjee, Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2021. Performance of urinary, blood, and integrated multi-media metal biomarkers in Relation to birth outcomes in a mixture Setting. *Environmental Research*, under review.
 
-Cathey, AL., Eaton, JL, **Ashrap, P.**, Watkins, DJ., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Mukherjee, B., Meeker, JD., 2021. [Individual and joint effects of phthalate metabolites on biomarkers of oxidative stress among pregnant women in Puerto Rico](https://www.sciencedirect.com/science/article/pii/S0160412021001902). *Scientific Reports*, 154, p.106565.
+Cathey, AL., Eaton, JL, **Ashrap, P.**, Watkins, DJ., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Mukherjee, B., Meeker, JD., 2021. [Individual and joint effects of phthalate metabolites on biomarkers of oxidative stress among pregnant women in Puerto Rico](https://www.sciencedirect.com/science/article/pii/S0160412021001902). *Environment International*, 154, p.106565.
 
 Tung, MT., **Ashrap, P.**, Watkins, DJ., Mukherjee, B., Rosario, Z., Vélez-Vega, CM., Alshawabkeh, A., Cordero, JF., Meeker, JD., 2021. [Maternal lipidomic profiling of pregnancy outcomes reveals unique lipid signatures for spontaneous preterm birth and large-for-gestational age neonates](https://www.nature.com/articles/s41598-021-87472-9). *Scientific Reports*, 11(1), pp.1-11.
 
